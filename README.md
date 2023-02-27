@@ -20,7 +20,7 @@ Play flight game or train a neural network that will  learn how to avoid
 obstacles (rockets) and collect as many  points as possible.
 
 Run training example: 
-python3 main.py --train
+python3 main.py --training
 
 Play game by yourself example: 
 python3 main.py --play
