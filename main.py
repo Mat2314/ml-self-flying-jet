@@ -12,10 +12,10 @@ def run(play, training, radar):
     points as possible.
     
     Run training example:
-    python3 --train 
+    python3 main.py --train 
     
     Play game by yourself example:
-    python3 --play
+    python3 main.py --play
     """
     if play:
         game = FlightGame()
